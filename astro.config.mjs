@@ -7,6 +7,14 @@ export default defineConfig({
   server: {
     host: true
   },
+  vite: {
+    server: {
+      watch: {
+        usePolling: true,
+        interval: 60
+      }
+    }
+  },
 
   integrations: [
     starlight({
