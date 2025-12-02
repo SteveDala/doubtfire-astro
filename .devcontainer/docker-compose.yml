@@ -4,8 +4,7 @@ services:
       context: ../
       dockerfile: Dockerfile
     ports:
-      - "4321:4321"  # or whatever port your dev server uses
-    volumes:
+      - "4321:4321"
       - ..:/site
       - astro-node_modules:/site/node_modules
 volumes:
