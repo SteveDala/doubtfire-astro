@@ -169,5 +169,10 @@ The following data columns are available for export:
 * **Attachments:** A semicolon-separated list of GitHub URLs found in the task's references. In Markdown exports, these can be automatically converted to clickable hyperlinks (e.g., `[PR#123](...)`).
 * **Status:** The completion status of the task (Not Started, In Progress, or Completed).
 
+## Thoth Tech information
+
+`njykIFLDn0iAY1at7tACfcgADgBS` - Ontrack Planner ID
+`mIelcQoIgkqhbM8WaPS3sMgAEmyV` - Splashkit Plan ID
+
 **Date of Creation:** 22/08/2025
 **Author:** Ibitope Fatoki
